@@ -1,3 +1,4 @@
-#Release file
+Release notes
 
-This project ready for release
+Version: 1.0
+
